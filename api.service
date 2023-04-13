@@ -3,7 +3,7 @@ Description=API server
 Alias=api.service
 
 [Service]
-ExecStart=/home/nurlybek/service-api/tmp/api
+ExecStart=/home/nurlybek/service-api/api
 
 [Install]
 WantedBy=multi-user.target
